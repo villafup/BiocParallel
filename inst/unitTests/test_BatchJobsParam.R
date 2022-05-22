@@ -1,3 +1,5 @@
+message("Testing BatchJobsParam")
+
 test_BatchJobsParam <- 
     function() 
 {
