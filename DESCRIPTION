@@ -19,6 +19,9 @@ Authors@R: c(
     person("Phylis", "Atieno", role = "ctb",
         comment = "Translated 'Introduction to BiocParallel' vignette from Sweave to Rmarkdown / HTML."
     ),
+    person("Paul", "Villafuerte", role = "ctb",
+        comment = "Translated 'Error Logs and Debugging' vignette from Sweave to Rmarkdown / HTML."
+    ),
     person(
         "Sergio", "Oller", role = "ctb",
         comment = c(
